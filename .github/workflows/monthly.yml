@@ -1,0 +1,74 @@
+name: Monthly IARC Scrape
+
+on:
+  schedule:
+    - cron: '0 3 1 * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+
+      - name: Set up Python
+        run: uv python install 3.11
+
+      - name: Install Firefox
+        uses: browser-actions/setup-firefox@v1
+
+      - name: Install GeckoDriver
+        uses: browser-actions/setup-geckodriver@latest
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run scraper
+        run: uv run python scripts/scrape.py
+
+      - name: Check for changes
+        id: check
+        run: |
+          git add data/
+          git diff --cached --quiet || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "chore: update IARC SMILES data"
+          git push
+
+      - name: Notify etoxpred-examples
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.DISPATCH_TOKEN }}" \
+            -d '{"event_type":"iarc-updated"}' \
+            https://api.github.com/repos/morawskidotmy/etoxpred-examples/dispatches
+
+      - name: Summary
+        run: |
+          echo "## IARC Scrape Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          for f in data/group*.smi; do
+            name=$(basename "$f" .smi)
+            count=$(wc -l < "$f" 2>/dev/null || echo 0)
+            echo "- **$name**: $count chemicals with SMILES" >> $GITHUB_STEP_SUMMARY
+          done
+          if [ -f data/failed_lookups.txt ]; then
+            failed=$(wc -l < data/failed_lookups.txt)
+            echo "- **Failed lookups**: $failed agents" >> $GITHUB_STEP_SUMMARY
+          fi
+          if [ "${{ steps.check.outputs.changed }}" == "true" ]; then
+            echo "✅ Changes pushed" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ No new chemicals" >> $GITHUB_STEP_SUMMARY
+          fi

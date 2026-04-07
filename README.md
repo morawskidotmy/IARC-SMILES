@@ -8,7 +8,7 @@ List is updated monthly through github ci.
 
 Auto-scraped [IARC Monographs](https://monographs.iarc.who.int/list-of-classifications/) carcinogen classifications with canonical SMILES notation from [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
 
-Updated weekly via GitHub Actions CI.
+Updated monthly via GitHub Actions CI.
 
 ## IARC Groups
 

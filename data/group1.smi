@@ -12,6 +12,7 @@ C=CC#N	Acrylonitrile
 COC1=C2C3=C(C(=O)OCC3)C(=O)OC2=C4C5C=COC5OC4=C1	Aflatoxins
 COC1=CC=CC2=C3C(=C(C=C21)[N+](=O)[O-])C(=CC4=C3OCO4)C(=O)O	Aristolochic acid
 [As]	Arsenic and inorganic arsenic compounds
+[OH-].[OH-].[O-][Si]([O-])([O-])O[Si](=O)O[Si]([O-])([O-])O[Si](=O)O[Si]([O-])([O-])O[Si]([O-])([O-])O[Si](=O)O[Si]([O-])([O-])[O-].[Fe+2].[Fe+2].[Fe+2].[Fe+2].[Fe+2].[Fe+2].[Fe+2]	Asbestos (all forms, including actinolite, amosite, anthophyllite, chrysotile, crocidolite, tremolite)
 CN1C=NC(=C1SC2=NC=NC3=C2NC=N3)[N+](=O)[O-]	Azathioprine
 C1=CC=CC=C1	Benzene
 C1=CC(=CC=C1C2=CC=C(C=C2)N)N	Benzidine
@@ -59,4 +60,3 @@ C(=C(Cl)Cl)Cl	Trichloroethylene
 [U]	Uranium, mixture of isotopes (see Radionuclides, alpha-particle-emitting, internally deposited)
 C=CCl	Vinyl chloride
 CC(C1=NC=NC=C1F)C(CN2C=NC=N2)(C3=C(C=C(C=C3)F)F)O	Voriconazole
-[OH-].[OH-].[O-][Si]([O-])([O-])O[Si](=O)O[Si]([O-])([O-])O[Si](=O)O[Si]([O-])([O-])O[Si]([O-])([O-])O[Si](=O)O[Si]([O-])([O-])[O-].[Fe+2].[Fe+2].[Fe+2].[Fe+2].[Fe+2].[Fe+2].[Fe+2]	Asbestos (all forms, including actinolite, amosite, anthophyllite, chrysotile, crocidolite, tremolite)

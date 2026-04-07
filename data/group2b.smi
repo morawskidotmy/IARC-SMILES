@@ -1,283 +1,283 @@
-CN1CCC=C(C1)C(=O)OC	Arecoline
-C1=CC=C(C=C1)C2=CN(C3=C2C(=O)NC=N3)C4=CC=C(C=C4)Br	BK polyomavirus (BKV)
-C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl	Hexachlorocyclohexanes
-C1=CC(=CC=C1[N+](=O)[O-])Cl	4-Chloronitrobenzene
-COC1=CC=C(C=C1)[N+](=O)[O-]	para-Nitroanisole
-C=CC1=CCCCC1	4-Vinylcyclohexene
-CCC1=CC=CC=C1	Ethylbenzene
-C1CCN(CC1)N=O	N-Nitrosopiperidine
-COC1=C2C(=C3C4C=COC4OC3=C1)OC5=CC=CC(=C5C2=O)O	Sterigmatocystin
-CN(C)C1=CC=C(C=C1)CC2=CC=C(C=C2)N(C)C	Michler’s base [4,4´-methylenebis(N,N-dimethyl)­benzenamine]
-C1=CC(=CC=C1CC2=CC=C(C=C2)N)N	4,4'-Methylenedianiline
-C1=CC(=CC=C1N)OC2=CC=C(C=C2)N	4,4'-Diaminodiphenyl ether
-C1C(O1)COC2=CC(=CC=C2)OCC3CO3	Diglycidyl resorcinol ether
-CC1C(NC(=O)C(NC(=O)C(C(NC(=O)C(NC(=O)C(NC(=O)C(=C)N(C(=O)CCC(NC1=O)C(=O)O)C)C)CC(C)C)C(=O)O)C)CCCN=C(N)N)C=CC(=CC(C)C(CC2=CC=CC=C2)OC)C	Microcystin-LR
-CCCCC(CC)COC(=O)C=C	2-Ethylhexyl acrylate
-CN1C2=C(N=CC(=C2)C3=CC=CC=C3)N=C1N	PhIP (2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine)
-C1=CC2=C(C=CC3=C2C(=C1)C4=C3C=CC=C4[N+](=O)[O-])[N+](=O)[O-]	3,7-Dinitrofluoranthene
-CCN(C)N=O	N-Nitrosomethylethylamine
-C1=CC(=CC=C1Cl)Cl	para-Dichlorobenzene
-C1=CC(=CC=C1N)Cl	para-Chloroaniline
-C1CC2C(O2)CC1C3CO3	4-Vinylcyclohexene diepoxide
-CCC1CO1	1,2-Epoxybutane
-CCCBr	1-Bromopropane
+C(C(Cl)(Cl)Cl)Cl	1,1,1,2-Tetrachloroethane
+C(C(Cl)Cl)(Cl)Cl	1,1,2,2-Tetrachloroethane
+CN(C)N	1,1-Dimethylhydrazine
+C(C(CBr)Br)Cl	1,2-Dibromo-3-chloropropane
 C(CCl)Cl	1,2-Dichloroethane
-CC(=O)OC=C	Vinyl acetate
-CC(C)CC(=O)C	Methyl isobutyl ketone
-C1(=NC(=NC(=N1)N)N)N	Melamine
-C(CCl)CBr	1-Bromo-3-chloropropane
-C1CCOC1	Tetrahydrofuran
-C1=COC=C1	Furan
-C1=CC=NC=C1	Pyridine
-CC1=C(N=C(N=C1N)C(CC(=O)N)NCC(C(=O)N)N)C(=O)NC(C(C2=CN=CN2)OC3C(C(C(C(O3)CO)O)O)OC4C(C(C(C(O4)CO)O)OC(=O)N)O)C(=O)NC(C)C(C(C)C(=O)NC(C(C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O	Bleomycins
-C(CO)NCCO	Diethanolamine
-C(CO)N(CCO)N=O	N-Nitrosodiethanolamine
-C(C(C(=O)O)N)OC(=O)C=[N+]=[N-]	Azaserine
-C1(C(C2(C(=C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)C(=O)O)C(=O)O	Chlorendic acid
-CCCCC(C)C(C(CC(C)CC(CCCCC(CC(C(C)N)O)O)O)OC(=O)CC(CC(=O)O)C(=O)O)OC(=O)CC(CC(=O)O)C(=O)O	Fusarium moniliforme, toxins derived from (fumonisin B1, fumonisin B2, and fusarin C)
-C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O	Dantron (Chrysazin; 1,8-Dihydroxyanthraquinone)
-CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC	Di(2-ethylhexyl)phthalate
-C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl	Hexachlorobenzene
-C1=CC=C(C=C1)C(=O)C2=CC=CC=C2	Benzophenone
-COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N	3,3'-Dimethoxybenzidine (ortho-Dianisidine)
-CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)C)N	3,3'-Dimethylbenzidine (ortho-Tolidine)
-C1=CC=C2C=C3C=CC=CC3=CC2=C1	Anthracene
-CC1=CC(=C(C=C1)OC)N	para-Cresidine
-C1=CC=C(C(=C1)O)O	Catechol
-CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-]	2,4-Dinitrotoluene
-C1=CC=C(C=C1)NC2=CC=CC=C2	Diphenylamine
-C1C(O1)COC2=CC=CC=C2	Phenyl glycidyl ether
-C1=CC=C(C=C1)NNC2=CC=CC=C2	1,2-Diphenylhydrazine
-CC(=CCCC(=C)C=C)C	β-Myrcene
-CCCC=O	Butyraldehyde
-C1COCCO1	1,4-Dioxane
-C[As](=O)(O)O	Methylarsonic acid
-CCC1(C(=O)NCNC1=O)C2=CC=CC=C2	Primidone
-CC1CC(=O)C=C(C12C(=O)C3=C(O2)C(=C(C=C3OC)OC)Cl)OC	Griseofulvin
-C[N+](CCCl)(CCCl)[O-]	Nitrogen mustard N-oxide
-C=CC(=C)Cl	Chloroprene
-CC(=O)N(C)C	N,N-Dimethylacetamide
-CC1=C(C2=C(C=C1)C(=O)C3=CC=CC=C3C2=O)[N+](=O)[O-]	2-Methyl-1-nitroanthraquinone (uncertain purity)
-C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=CC=C3)O	1-Hydroxyanthraquinone
-CN(C)C1=CC=C(C=C1)C(C2=CC=CC=C2)C3=CC=C(C=C3)N(C)C	Leucomalachite green (see also Malachite green)
-O=[Co]	Cobalt(II) oxide
-O=[Mo](=O)=O	Molybdenum trioxide
-O=[V](=O)O[V](=O)=O	Vanadium pentoxide
-C1=CC=C(C=C1)C2=CC=CC=C2[O-].[Na+]	Sodium ortho-phenylphenate
-CN(CC(=O)O)N=O	N-Nitrososarcosine
-C	Carbon black
-O=[Ti]=O	Titanium dioxide
-C1=CC=C(C=C1)N(N=O)[O-].[NH4+]	Cupferron
-C1=CC=C(C=C1)N=NC2=C(N=C(C=C2)N)N.Cl	Phenazopyridine hydrochloride
-C(C(=O)O)N(CC(=O)O)CC(=O)O	Nitrilotriacetic acid and its salts
-C1=CC(=CC=C1N)SC2=CC=C(C=C2)N	4,4'-Thiodianiline
-CC(COC1=CC=C(C=C1)C(C)(C)C)OS(=O)OCCCl	Aramite®
-CCOC(=O)C=C	Ethyl acrylate
-C1=CNC(=S)NC1=O	Thiouracil
-CC=CC=CC=O	2,4-Hexadienal
-C1(=O)C2(C3(C4(C1(C5(C2(C3(C(C45Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl	Chlordecone (Kepone)
-C[N+](=NCOC1C(C(C(C(O1)CO)O)O)O)[O-]	Cycasin
-C1CN1	Aziridine
-CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C	Trimethylolpropane triacrylate, technical grade
 CCNNCC	1,2-Diethylhydrazine
-CC(C)(C)OC	Methyl tert-butyl ether
-CCN(CC1=CC(=CC=C1)S(=O)(=O)O)C2=CC=C(C=C2)C(=C3C=CC(=[N+](C)C)C=C3)C4=CC=C(C=C4)N(CC)CC5=CC(=CC=C5)S(=O)(=O)[O-].[Na]	Benzyl violet 4B
-C1=CC=C2C(=C1)C3=C4C(=C(C=C3)[N+](=O)[O-])C=CC=C4C2=O	3-Nitrobenzanthrone
-C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F	Perfluorooctanesulfonic acid (PFOS)
-C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)Cl)Cl	Nitrofen (technical-grade)
-CN(C(=O)NC1C(C(C(OC1O)CO)O)O)N=O	Streptozotocin
-C1=CC=C2C3=C4C(=CC2=C1)C=CC5=CC6=CC=CC=C6C(=C54)C=C3	Dibenzo[a,i]pyrene
-C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC6=CC=CC=C56)C=C3	Dibenzo[a,h]pyrene
-C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl	Chlorothalonil
-C1=CC=C2C(=C1)C3=C4C2=CC5=CC=CC6=C5C4=C(C=C6)C=C3	Indeno[1,2,3-cd]pyrene
-C1=CC=C2C(=C1)C=CC3=C2C4=C(N3)C=CC5=CC=CC=C54	7H-Dibenzo[c,g]carbazole
-C1=CC=C2C(=C1)C=CC3=C2C4=CC=CC=C4C=C3	Benzo[c]phenanthrene
-C1=CC=C2C(=C1)C=CC3=C2C=C4C=CC=C5C4=C3C=C5	Benz[j]aceanthrylene
-C1=CC=C2C(=C1)C=CC3=C2C4=CC=CC5=C4C3=CC=C5	Benzo[j]fluoranthene
-C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2=C1	Benzo[b]fluoranthene
-C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1	Benzo[k]fluoranthene
-CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O	Digoxin
-CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O	Daunomycin (Daunorubicin)
-C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43	Chrysene
-COP(=O)(OC)OC(=CCl)C1=CC(=C(C=C1Cl)Cl)Cl	Tetrachlorvinphos
-C1=CC=C2C(=C1)C=CC3=C2N=C4C(=C3)C=CC5=CC=CC=C54	Dibenz[c,h]acridine
-C1=CC2=C(C=CC3=C2C(=C1)C4=C3C=C(C=C4)[N+](=O)[O-])[N+](=O)[O-]	3,9-Dinitrofluoranthene
-C1=CC=C2C(=C1)C=CC3=C2C=C4C=CC5=CC=CC=C5C4=N3	Dibenz[a,h]acridine
-COC(=O)C(CC1=CC=CC=C1)NC(=O)C(CC(=O)O)N	Aspartame
-CC=C1CC(=C)C(C(=O)OCC2=CCN3C2C(CC3)OC1=O)(CO)O	Riddelliine
-C12(C3(C4(C5(C3(C(C1(C5(C2(C4(Cl)Cl)Cl)Cl)Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl	Mirex
-CCCCOCC1CO1	1-Butyl glycidyl ether
-COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])N)O)OC)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)[O-])S(=O)(=O)[O-])N)O.[Na+].[Na+].[Na+].[Na+]	CI Direct Blue 15
-C1=CC(=C2C(=C1N)C(=O)C3=C(C=CC(=C3C2=O)N)N)N	Disperse Blue 1
-CC(C)(C)C1=C(C=CC(=C1)OC)O	Butylated hydroxyanisole (BHA)
-CN(C)C=NC1=NN=C(O1)C=CC2=CC=C(O2)[N+](=O)[O-]	trans-2-[(Dimethylamino)methylimino]-5-[2-(5-nitro-2-furyl)-vinyl]-1,3,4-oxadiazole
-C1=CC=C2C(=C1)C3=C(N2)N=C(C=C3)N	A-alpha-C (2-Amino-9H-pyrido[2,3-b]indole)
-CC1=CC=CC=C1N=NC2=C(C=CC3=CC=CC=C32)O	Oil Orange SS
-C1=CC=C2C(=C1)C=CO2	Benzofuran
-CNC1=C(C=C(C=C1)N(CCO)CCO)[N+](=O)[O-]	HC Blue No. 1
-C1=CC(=C(C=C1C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])N)O)O)O)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)[O-])S(=O)(=O)[O-])N)O.[Na+].[Na+].[Na+].[Na+].[Cu].[Cu]	CI Direct Blue 218
-C1=CC(=C(C=C1OC2=CC(=C(C=C2)N)Cl)Cl)N	3,3'-Dichloro-4,4'-diaminodiphenyl ether
-CC(C)OS(=O)(=O)OC(C)C	Diisopropyl sulfate
-CC=C(C)C(=O)OC1CCN2C1C(=CC2)COC(=O)C(C(C)OC)(C(C)(C)O)O	Lasiocarpine
-CC1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)NC(CC3=CC=CC=C3)C(=O)O)Cl	Ochratoxin A
-CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=[N-]	Zidovudine (AZT)
-CC1CC(=O)O1	beta-Butyrolactone
-CC1C(=O)OC2CCN3C2C(=CC3)COC(=O)C(C1(C)O)(C)O	Monocrotaline
-C(#N)C(Br)Br	Dibromoacetonitrile
-C(C(CO)(CBr)CBr)O	2,2-Bis(bromomethyl)propane-1,3-diol
-C1=CC(=C(C=C1C=CC(=O)O)O)O	Caffeic acid
-CC1=CC(=C(C=C1C)N=NC2=C3C=CC(=CC3=CC(=C2O)S(=O)(=O)[O-])S(=O)(=O)[O-])C.[Na+].[Na+]	Ponceau 3R
-C1=C(OC(=C1)[N+](=O)[O-])C2=CSC(=N2)NNC=O	2-(2-Formylhydrazino)-4-(5-nitro-2-furyl)thiazole
-C1=COC(=C1)C(=CC2=CC=C(O2)[N+](=O)[O-])C(=O)N	AF-2 [2-(2-Furyl)-3-(5-nitro-2-furyl)acrylamide]
-CC1=CC2=CC=CC=C2C3=C1C4=CC=CC=C4C=C3	5-Methylchrysene
-COC1COC(C(C1OS(=O)(=O)[O-])OS(=O)(=O)[O-])OC2COC(C(C2OS(=O)(=O)[O-])OS(=O)(=O)[O-])OC3COC(C(C3OS(=O)(=O)[O-])OC4C(C(C(C(O4)C(=O)[O-])OC)OS(=O)(=O)[O-])OS(=O)(=O)[O-])OC5COC(C(C5OS(=O)(=O)[O-])OS(=O)(=O)[O-])OC.[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]	Pentosan polysulfate sodium
-CC1=CC(=C(C=C1)N=NC2=C3C=C(C=CC3=CC(=C2O)S(=O)(=O)[O-])S(=O)(=O)[O-])C.[Na+].[Na+]	Ponceau MX
-CC(C)(C(=O)O)OC1=CC=C(C=C1)C2CCCC3=CC=CC=C23	Nafenopin
-C1COCCN1CC2CN(C(=O)O2)N=CC3=CC=C(O3)[N+](=O)[O-]	5-(Morpholinomethyl)-3-[(5-nitrofurfurylidene)­amino]-2-oxazolidinone
-C1=CC=C(C=C1)C2=NC3=C(N=C(N=C3N=C2N)N)N	Triamterene
-CC=CC=O	Crotonaldehyde
+C1=CC=C(C=C1)NNC2=CC=CC=C2	1,2-Diphenylhydrazine
+CCC1CO1	1,2-Epoxybutane
+C(C(CCl)O)Cl	1,3-Dichloro-2-propanol
+C(C=CCl)Cl	1,3-Dichloropropene (technical-grade)
+C1=CC2=C3C(=C1)C=CC4=C(C=C(C(=C43)C=C2)[N+](=O)[O-])[N+](=O)[O-]	1,3-Dinitropyrene
+C1=CC(=C(C=C1Cl)[N+](=O)[O-])Cl	1,4-Dichloro-2-nitrobenzene
+C1COCCO1	1,4-Dioxane
 C1=CC2=C(C=CC3=C2C4=C1C=CC(=C4C=C3)[N+](=O)[O-])[N+](=O)[O-]	1,6-Dinitropyrene
 C1=CC2=C3C(=C(C=C2)[N+](=O)[O-])C=CC4=C(C=CC1=C43)[N+](=O)[O-]	1,8-Dinitropyrene
-CN(C)N=NC1=C(NC=N1)C(=O)N	Dacarbazine
-CC1=NC=C(N1CCO)[N+](=O)[O-]	Metronidazole
-CN(C=C)N=O	N-Nitrosomethylvinylamine
-CN(C)C1=CC=C(C=C1)C(=N)C2=CC=C(C=C2)N(C)C	Auramine
-CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2	Phenobarbital
-CC1=C(C(=O)C2=C(C1=O)N3CC4C(C3(C2COC(=O)N)OC)N4)N	Mitomycin C
-CC1(C(=O)N(C(=O)O1)C2=CC(=CC(=C2)Cl)Cl)C=C	Vinclozolin
-C([N+](=O)[O-])([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]	Tetranitromethane
-O=[Sn].[In]	Indium tin oxide
-CCCC1=CC(=O)NC(=S)N1	Propylthiouracil
-COC1=C(C=CC(=C1)NS(=O)(=O)C)NC2=C3C=CC=CC3=NC4=CC=CC=C42	Amsacrine
-CC(=CCl)C	1-Chloro-2-methylpropene
-C1=CC(=CC=C1CC(C(=O)O)N)N(CCCl)CCCl	Merphalan
-CC(=O)NC1=NC(=CS1)C2=CC=C(O2)[N+](=O)[O-]	N-[4-(5-Nitro-2-furyl)-2-thiazolyl]acetamide
-CC(C)CON=O	Isobutyl nitrite
-C(C=CCl)Cl	1,3-Dichloropropene (technical-grade)
-CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=C(C=C3)N(C)C.[Cl-]	Gentian violet (see also Leucogentian violet)
 C1CN(C(=O)N1)N=CC2=CC=C(O2)[N+](=O)[O-]	1-[(5-Nitrofurfurylidene)amino]-2-imidazolidinone
-C(C(=O)O)(Cl)Br	Bromochloroacetic acid
-CC1=CC(=O)NC(=S)N1	Methylthiouracil
-C(Cl)(Cl)(Cl)Cl	Carbon tetrachloride
-CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+](=O)[O-]	Parathion
-C1=CC=C2C(=C1)C=CC3=CC4=CC=CC=C4C=C32	Benz[a]anthracene
-CC(=C)CCl	3-Chloro-2-methylpropene, technical grade
-C1=CC(=N)C=CC1=C(C2=CC=C(C=C2)N)C3=CC=C(C=C3)N.Cl	CI Basic Red 9
-CN(C)N	1,1-Dimethylhydrazine
-C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3	Phenytoin
-C1COC1=O	beta-Propiolactone
-C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl	Chlordane
+C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3Br)Br)N	1-Amino-2,4-dibromoanthraquinone
+C(CCl)CBr	1-Bromo-3-chloropropane
+CCCBr	1-Bromopropane
+CCCCOCC1CO1	1-Butyl glycidyl ether
+CC(=CCl)C	1-Chloro-2-methylpropene
+C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=CC=C3)O	1-Hydroxyanthraquinone
 CC(COC(C)(C)C)O	1-tert-Butoxypropan-2-ol
-C1=CC2=C3C(=C1)C=C(C4=CC=CC(=C43)C=C2)[N+](=O)[O-]	4-Nitropyrene
-C1COCCN1N=O	N-Nitrosomorpholine
-CC(=O)OCN=[N+](C)[O-]	Methylazoxymethanol acetate
-C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O	Sulfasalazine
-C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N	para-Aminoazobenzene
-CN(C)C1=CC=C(C=C1)N=NC2=CC=CC=C2	para-Dimethylaminoazobenzene
-CC(=O)N	Acetamide
-CN(CCC#N)N=O	3-(N-Nitrosomethylamino)propionitrile
-C1CC2=CC=C(C3=CC=CC1=C23)[N+](=O)[O-]	5-Nitroacenaphthene
-C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O	Oxazepam
-CC1=C(C=CC=C1[N+](=O)[O-])[N+](=O)[O-]	2,6-Dinitrotoluene
-C1C2=CC=CC=C2C3=C1C=C(C=C3)[N+](=O)[O-]	2-Nitrofluorene
-C1CN(C(=O)N1)C2=NC=C(S2)[N+](=O)[O-]	Niridazole
-C1=CC(=C(C=C1Cl)Cl)[N+](=O)[O-]	2,4-Dichloro-1-nitrobenzene
-CC(=O)NC1=CC=C(C=C1)C2=CC=C(C=C2)NC(=O)C	N,N'-Diacetylbenzidine
+C(C(CO)(CBr)CBr)O	2,2-Bis(bromomethyl)propane-1,3-diol
+C(C(CBr)Br)O	2,3-Dibromopropan-1-ol
+C1=C(C=C(C(=C1Cl)O)Cl)Cl	2,4,6-Trichlorophenol (see also Polychlorophenols)
+C1=CC(=C(C=C1Cl)Cl)OCC(=O)O	2,4-D (2,4-dichlorophenoxyacetic acid) (See also Chlorophenoxy herbicides)
 COC1=C(C=C(C=C1)N)N	2,4-Diaminoanisole
-C1=CC=C(C(=C1)N)N.Cl.Cl	ortho-Phenylenediamine dihydrochloride
-CCOC(=O)N(C)N=O	N-Methyl-N-nitrosourethane
-CCOS(=O)(=O)C	Ethyl methanesulfonate
-CC(=S)N	Thioacetamide
-COP(=O)(OC)OC=C(Cl)Cl	Dichlorvos
-CCCN(CCC)N=O	N-Nitrosodi-n-propylamine
-CC1=C2C(=C(N=C1N)C)C3=CC=CC=C3N2	Trp-P-1 (3-Amino-1,4-dimethyl-5H-pyrido[4,3-b]indole)
-CC1=C2C3=CC=CC=C3NC2=CC(=N1)N	Trp-P-2 (3-Amino-1-methyl-5H-pyrido[4,3-b]indole)
-CC(COC1=CC=CC=C1)N(CCCl)CC2=CC=CC=C2.Cl	Phenoxybenzamine hydrochloride
-C(C(Cl)(Cl)Cl)Cl	1,1,1,2-Tetrachloroethane
-C(C(=O)O)(Br)Br	Dibromoacetic acid
-CC1=CC(=C(C2=CC=C(C=C2)N)C3=CC=C(C=C3)N)C=CC1=N.Cl	Magenta
-COC1=CC(=C(C=C1)OC)N=NC2=C(C=CC3=CC=CC=C32)O	Citrus Red No. 2
-CCOC(C)(C)C	Ethyl tert-butyl ether
-CC1=CC=C(C=C1)S(=O)(=O)OC2=CC=C(C=C2)N=NC3=C(C=C(C=C3)C4=CC(=C(C=C4)N=NC5=C(C=CC6=CC(=CC(=C65)S(=O)(=O)[O-])S(=O)(=O)[O-])O)C)C.[Na+].[Na+]	CI Acid Red 114
-C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO	Mitoxantrone
-C1=C(C(=O)NC(=O)N1)N(CCCl)CCCl	Uracil mustard
-C(Cl)(Cl)Cl	Chloroform
-C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl	Hexachloroethane
-C1=CC2=NC3=C(N2C=C1)N=C(C=C3)N	Glu-P-2 (2-Aminodipyrido[1,2-a:3',2'-d]imidazole)
-CC1=CC=CN2C1=NC3=C2N=C(C=C3)N	Glu-P-1 (2-Amino-6-methyldipyrido[1,2-a:3',2'-d]imidazole)
-CN(C)P(=O)(N(C)C)N(C)C	Hexamethylphosphoramide
-CC1=CC2=C(NC3=CC=CC=C32)N=C1N	MeA-alpha-C (2-Amino-3-methyl-9H-pyrido[2,3-b]indole)
-CC1=NC=CN1	2-Methylimidazole
-CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(=O)CC4)C	Medroxyprogesterone acetate
+CC1=C(C=C(C=C1)N)N	2,4-Diaminotoluene
+C1=CC(=C(C=C1Cl)Cl)[N+](=O)[O-]	2,4-Dichloro-1-nitrobenzene
+CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-]	2,4-Dinitrotoluene
+CC=CC=CC=O	2,4-Hexadienal
+CC1=C(C(=CC=C1)C)N	2,6-Dimethylaniline (2,6-Xylidine)
+CC1=C(C=CC=C1[N+](=O)[O-])[N+](=O)[O-]	2,6-Dinitrotoluene
+C1=C(OC(=C1)[N+](=O)[O-])C2=CSC(=N2)NNC=O	2-(2-Formylhydrazino)-4-(5-nitro-2-furyl)thiazole
+C1=CC(=C(C=C1Cl)N)O	2-Amino-4-chlorophenol
 C1=C(OC(=C1)[N+](=O)[O-])C2=NN=C(S2)N	2-Amino-5-(5-nitro-2-furyl)-1,3,4-thiadiazole
-CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])N)O)C)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)[O-])S(=O)(=O)[O-])N)O.[Na+].[Na+].[Na+].[Na+]	Trypan blue
-[Pb]	Lead
-[Ni]	Nickel, metallic
-C1CC(OC1CO)N2C=CC(=NC2=O)N	Zalcitabine
-CC=O	Acetaldehyde
-C(Cl)(Cl)Br	Bromodichloromethane
-C=C(Cl)Cl	Vinylidene chloride
-C[N+](=O)[O-]	Nitromethane
+C1=CC=C(C(=C1)[N+](=O)[O-])Cl	2-Chloronitrobenzene
+CCCCC(CC)COC(=O)C=C	2-Ethylhexyl acrylate
+CC1=C(C2=C(C=C1)C(=O)C3=CC=CC=C3C2=O)[N+](=O)[O-]	2-Methyl-1-nitroanthraquinone (uncertain purity)
 CC1CN1	2-Methylaziridine (Propyleneimine)
-CC1CO1	Propylene oxide
-C[As](=O)(C)O	Dimethylarsinic acid
-C1=CC2=C3C(=C1)C=CC4=C(C=C(C(=C43)C=C2)[N+](=O)[O-])[N+](=O)[O-]	1,3-Dinitropyrene
-C(=O)(C(Cl)(Cl)Cl)O	Trichloroacetic acid
-C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl	Heptachlor
-C1C(O1)C=O	Glycidaldehyde
-C1=CC=C2C(=C1)C(=O)OC2(C3=CC=C(C=C3)O)C4=CC=C(C=C4)O	Phenolphthalein
-CC1=CC2=C(C=CC=N2)C3=C1N(C(=N3)N)C	MeIQ (2-Amino-3,4-dimethylimidazo[4,5-f]quinoline)
+CC1=NC=CN1	2-Methylimidazole
+C1C2=CC=CC=C2C3=C1C=C(C=C3)[N+](=O)[O-]	2-Nitrofluorene
+CC(C)[N+](=O)[O-]	2-Nitropropane
+C1=CC(=C(C=C1OC2=CC(=C(C=C2)N)Cl)Cl)N	3,3'-Dichloro-4,4'-diaminodiphenyl ether
+C1=CC(=C(C=C1C2=CC(=C(C=C2)N)Cl)Cl)N	3,3'-Dichlorobenzidine
+COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N	3,3'-Dimethoxybenzidine (ortho-Dianisidine)
+CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)C)N	3,3'-Dimethylbenzidine (ortho-Tolidine)
+C1=CC2=C(C=CC3=C2C(=C1)C4=C3C=CC=C4[N+](=O)[O-])[N+](=O)[O-]	3,7-Dinitrofluoranthene
+C1=CC2=C(C=CC3=C2C(=C1)C4=C3C=C(C=C4)[N+](=O)[O-])[N+](=O)[O-]	3,9-Dinitrofluoranthene
+CN(CCC#N)N=O	3-(N-Nitrosomethylamino)propionitrile
+CC(=C)CCl	3-Chloro-2-methylpropene, technical grade
 C1(C(=C(C(=O)O1)Cl)C(Cl)Cl)O	3-Chloro-4-(dichloromethyl)-5-hydroxy-2(5H)-furanone
-CC1=CN=C2C=CC3=C(C2=N1)N=C(N3C)N	MeIQx (2-Amino-3,8-dimethylimidazo[4,5-f]quinoxaline)
-[O-]Br(=O)=O.[K+]	Potassium bromate
+C(C(CCl)O)O	3-Monochloro-1,2-propanediol
+C1=CC=C2C(=C1)C3=C4C(=C(C=C3)[N+](=O)[O-])C=CC=C4C2=O	3-Nitrobenzanthrone
+C1=CC(=CC=C1N)OC2=CC=C(C=C2)N	4,4'-Diaminodiphenyl ether
+CC1=C(C=CC(=C1)CC2=CC(=C(C=C2)N)C)N	4,4'-Methylene bis(2-methylaniline)
+C1=CC(=CC=C1CC2=CC=C(C=C2)N)N	4,4'-Methylenedianiline
+C1=CC(=CC=C1N)SC2=CC=C(C=C2)N	4,4'-Thiodianiline
+C1=CC(=C(C=C1Cl)N)N	4-Chloro-ortho-phenylenediamine
+C1=CC(=CC=C1C(F)(F)F)Cl	4-Chlorobenzotrifluoride
+C1=CC(=CC=C1[N+](=O)[O-])Cl	4-Chloronitrobenzene
+CC1=CN=CN1	4-Methylimidazole
+C1=CC2=C3C(=C1)C=C(C4=CC=CC(=C43)C=C2)[N+](=O)[O-]	4-Nitropyrene
+C=CC1=CCCCC1	4-Vinylcyclohexene
+C1CC2C(O2)CC1C3CO3	4-Vinylcyclohexene diepoxide
+C1COCCN1CC2CN(C(=O)O2)N=CC3=CC=C(O3)[N+](=O)[O-]	5-(Morpholinomethyl)-3-[(5-nitrofurfurylidene)­amino]-2-oxazolidinone
+CC1=CC2=CC=CC=C2C3=C1C4=CC=CC=C4C=C3	5-Methylchrysene
+C1CC2=CC=C(C3=CC=CC1=C23)[N+](=O)[O-]	5-Nitroacenaphthene
+C1=CC=C2C(=C1)C=CC3=C2C4=C(N3)C=CC5=CC=CC=C54	7H-Dibenzo[c,g]carbazole
+C1=CC=C2C(=C1)C3=C(N2)N=C(C=C3)N	A-alpha-C (2-Amino-9H-pyrido[2,3-b]indole)
+CC=O	Acetaldehyde
+CC(=O)N	Acetamide
+C1=COC(=C1)C(=CC2=CC=C(O2)[N+](=O)[O-])C(=O)N	AF-2 [2-(2-Furyl)-3-(5-nitro-2-furyl)acrylamide]
+COC1=C(C=CC(=C1)NS(=O)(=O)C)NC2=C3C=CC=CC3=NC4=CC=CC=C42	Amsacrine
+C1=CC=C2C=C3C=CC=CC3=CC2=C1	Anthracene
+C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O	Anthraquinone
+CC(COC1=CC=C(C=C1)C(C)(C)C)OS(=O)OCCCl	Aramite®
+CN1CCC=C(C1)C(=O)OC	Arecoline
+COC(=O)C(CC1=CC=CC=C1)NC(=O)C(CC(=O)O)N	Aspartame
+CN(C)C1=CC=C(C=C1)C(=N)C2=CC=C(C=C2)N(C)C	Auramine
+C(C(C(=O)O)N)OC(=O)C=[N+]=[N-]	Azaserine
+C1CN1	Aziridine
+C1=CC=C2C(=C1)C=CC3=CC4=CC=CC=C4C=C32	Benz[a]anthracene
+C1=CC=C2C(=C1)C=CC3=C2C=C4C=CC=C5C4=C3C=C5	Benz[j]aceanthrylene
+C1=CC=C2C3=C4C(=CC=C3)C5=CC=CC=C5C4=CC2=C1	Benzo[b]fluoranthene
+C1=CC=C2C(=C1)C=CC3=C2C4=CC=CC=C4C=C3	Benzo[c]phenanthrene
+C1=CC=C2C(=C1)C=CC3=C2C4=CC=CC5=C4C3=CC=C5	Benzo[j]fluoranthene
+C1=CC=C2C=C3C4=CC=CC5=C4C(=CC=C5)C3=CC2=C1	Benzo[k]fluoranthene
+C1=CC=C2C(=C1)C=CO2	Benzofuran
+C1=CC=C(C=C1)C(=O)C2=CC=CC=C2	Benzophenone
+CCN(CC1=CC(=CC=C1)S(=O)(=O)O)C2=CC=C(C=C2)C(=C3C=CC(=[N+](C)C)C=C3)C4=CC=C(C=C4)N(CC)CC5=CC(=CC=C5)S(=O)(=O)[O-].[Na]	Benzyl violet 4B
+CC1CC(=O)O1	beta-Butyrolactone
+C1COC1=O	beta-Propiolactone
+C1=CC=C(C=C1)C2=CN(C3=C2C(=O)NC=N3)C4=CC=C(C=C4)Br	BK polyomavirus (BKV)
+CC1=C(N=C(N=C1N)C(CC(=O)N)NCC(C(=O)N)N)C(=O)NC(C(C2=CN=CN2)OC3C(C(C(C(O3)CO)O)O)OC4C(C(C(C(O4)CO)O)OC(=O)N)O)C(=O)NC(C)C(C(C)C(=O)NC(C(C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O	Bleomycins
+C(C(=O)O)(Cl)Br	Bromochloroacetic acid
+C(Cl)(Cl)Br	Bromodichloromethane
+CCCCOC(=O)C(=C)C	Butyl methacrylate
+CC(C)(C)C1=C(C=CC(=C1)OC)O	Butylated hydroxyanisole (BHA)
+CCCC=O	Butyraldehyde
+C1=CC(=C(C=C1C=CC(=O)O)O)O	Caffeic acid
+C1=CC=C2C(=C1)C3=CC=CC=C3N2	Carbazole
+C	Carbon black
+C(Cl)(Cl)(Cl)Cl	Carbon tetrachloride
+C1=CC=C(C(=C1)O)O	Catechol
+C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl	Chlordane
+C1(=O)C2(C3(C4(C1(C5(C2(C3(C(C45Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl	Chlordecone (Kepone)
+C1(C(C2(C(=C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)C(=O)O)C(=O)O	Chlorendic acid
+C(Cl)(Cl)Cl	Chloroform
+C=CC(=C)Cl	Chloroprene
+C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl	Chlorothalonil
+C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43	Chrysene
+CC1=CC=C(C=C1)S(=O)(=O)OC2=CC=C(C=C2)N=NC3=C(C=C(C=C3)C4=CC(=C(C=C4)N=NC5=C(C=CC6=CC(=CC(=C65)S(=O)(=O)[O-])S(=O)(=O)[O-])O)C)C.[Na+].[Na+]	CI Acid Red 114
+C1=CC(=N)C=CC1=C(C2=CC=C(C=C2)N)C3=CC=C(C=C3)N.Cl	CI Basic Red 9
+COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])N)O)OC)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)[O-])S(=O)(=O)[O-])N)O.[Na+].[Na+].[Na+].[Na+]	CI Direct Blue 15
+C1=CC(=C(C=C1C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])N)O)O)O)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)[O-])S(=O)(=O)[O-])N)O.[Na+].[Na+].[Na+].[Na+].[Cu].[Cu]	CI Direct Blue 218
+COC1=CC(=C(C=C1)OC)N=NC2=C(C=CC3=CC=CC=C32)O	Citrus Red No. 2
+O=[Co]	Cobalt(II) oxide
+CC=CC=O	Crotonaldehyde
+CC(C)C1=CC=CC=C1	Cumene
+CC(C)(C1=CC=CC=C1)OO	Cumyl hydroperoxide
+C1=CC=C(C=C1)N(N=O)[O-].[NH4+]	Cupferron
+C[N+](=NCOC1C(C(C(C(O1)CO)O)O)O)[O-]	Cycasin
+CN(C)N=NC1=C(NC=N1)C(=O)N	Dacarbazine
+C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O	Dantron (Chrysazin; 1,8-Dihydroxyanthraquinone)
+CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O	Daunomycin (Daunorubicin)
+CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC	Di(2-ethylhexyl)phthalate
+C1=CC=C2C(=C1)C=CC3=C2C=C4C=CC5=CC=CC=C5C4=N3	Dibenz[a,h]acridine
+C1=CC=C2C(=C1)C=CC3=C2N=C4C(=C3)C=CC5=CC=CC=C54	Dibenz[c,h]acridine
+C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC6=CC=CC=C56)C=C3	Dibenzo[a,h]pyrene
+C1=CC=C2C3=C4C(=CC2=C1)C=CC5=CC6=CC=CC=C6C(=C54)C=C3	Dibenzo[a,i]pyrene
+C(C(=O)O)(Br)Br	Dibromoacetic acid
+C(#N)C(Br)Br	Dibromoacetonitrile
+C(C(=O)O)(Cl)Cl	Dichloroacetic acid
+COP(=O)(OC)OC=C(Cl)Cl	Dichlorvos
+C(CO)NCCO	Diethanolamine
+C1C(O1)COC2=CC(=CC=C2)OCC3CO3	Diglycidyl resorcinol ether
+CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O	Digoxin
+CCCC1=CC2=C(C=C1)OCO2	Dihydrosafrole
+CC(C)OS(=O)(=O)OC(C)C	Diisopropyl sulfate
+COP(=O)OC	Dimethyl hydrogen phosphite
+C[As](=O)(C)O	Dimethylarsinic acid
+C1=CC=C(C=C1)NC2=CC=CC=C2	Diphenylamine
+C1=CC(=C2C(=C1N)C(=O)C3=C(C=CC(=C3C2=O)N)N)N	Disperse Blue 1
+CCOC(=O)C=C	Ethyl acrylate
+CCOS(=O)(=O)C	Ethyl methanesulfonate
+CCOC(C)(C)C	Ethyl tert-butyl ether
+CCC1=CC=CC=C1	Ethylbenzene
+C1=COC=C1	Furan
+C1=COC(=C1)CO	Furfuryl alcohol
+CCCCC(C)C(C(CC(C)CC(CCCCC(CC(C(C)N)O)O)O)OC(=O)CC(CC(=O)O)C(=O)O)OC(=O)CC(CC(=O)O)C(=O)O	Fusarium moniliforme, toxins derived from (fumonisin B1, fumonisin B2, and fusarin C)
+CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=C(C=C3)N(C)C.[Cl-]	Gentian violet (see also Leucogentian violet)
+C1=CC=C(C=C1)N2C(=NN=N2)SC3=C(C=C(C=C3[N+](=O)[O-])C(=O)O)[N+](=O)[O-].N	Ginkgo biloba extract
+CC1=CC=CN2C1=NC3=C2N=C(C=C3)N	Glu-P-1 (2-Amino-6-methyldipyrido[1,2-a:3',2'-d]imidazole)
+C1=CC2=NC3=C(N2C=C1)N=C(C=C3)N	Glu-P-2 (2-Aminodipyrido[1,2-a:3',2'-d]imidazole)
+C1C(O1)C=O	Glycidaldehyde
+CC1CC(=O)C=C(C12C(=O)C3=C(O2)C(=C(C=C3OC)OC)Cl)OC	Griseofulvin
+CNC1=C(C=C(C=C1)N(CCO)CCO)[N+](=O)[O-]	HC Blue No. 1
+C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl	Heptachlor
+C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl	Hexachlorobenzene
+C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl	Hexachlorocyclohexanes
+C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl	Hexachloroethane
+CN(C)P(=O)(N(C)C)N(C)C	Hexamethylphosphoramide
+C1=CC=C2C(=C1)C3=C4C2=CC5=CC=CC6=C5C4=C(C=C6)C=C3	Indeno[1,2,3-cd]pyrene
+O=[Sn].[In]	Indium tin oxide
+CC(C)CON=O	Isobutyl nitrite
+CC=CC1=CC(=C(C=C1)O)OC	Isoeugenol
 CC1=CC(=O)CC(C1)(C)C	Isophorone
 CC(=C)C=C	Isoprene
-C(C(Cl)Cl)(Cl)Cl	1,1,2,2-Tetrachloroethane
-C(C(=O)O)(Cl)Cl	Dichloroacetic acid
-CC(C)[N+](=O)[O-]	2-Nitropropane
-C1=C(OC(=C1)[N+](=O)[O-])C=CC2=CN=C(N=N2)N(CO)CO	Panfuran S (containing dihydroxymethylfuratrizine)
-CC(C)(C1=CC=CC=C1)OO	Cumyl hydroperoxide
-C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl	Toxaphene (Polychlorinated camphenes)
-C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3Br)Br)N	1-Amino-2,4-dibromoanthraquinone
-C(CCl)N(CCCl)CCCl.Cl	Trichlormethine (Trimustine hydrochloride)
-CC1=CN=CN1	4-Methylimidazole
-CC1=C(C=CC(=C1)CC2=CC(=C(C=C2)N)C)N	4,4'-Methylene bis(2-methylaniline)
-C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O	Anthraquinone
-C1=CC=C2C(=C1)C3=CC=CC=C3N2	Carbazole
-COP(=O)OC	Dimethyl hydrogen phosphite
-CC1=C(C(=CC=C1)C)N	2,6-Dimethylaniline (2,6-Xylidine)
-C1=C(C=C(C(=C1Cl)O)Cl)Cl	2,4,6-Trichlorophenol (see also Polychlorophenols)
-C1=CC=C(C(=C1)[N+](=O)[O-])Cl	2-Chloronitrobenzene
-C1=CC(=C(C=C1Cl)[N+](=O)[O-])Cl	1,4-Dichloro-2-nitrobenzene
-CC1CCC(=C(C)C)C(=O)C1	Pulegone
-CN(C)C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)N(C)C	Michler’s ketone [4,4´-Bis(dimethylamino)­benzophenone]
 COC1=CC(=O)OC(C1)C=CC2=CC3=C(C=C2)OCO3	Kava extract
-C1=CC=C(C=C1)N2C(=NN=N2)SC3=C(C=C(C=C3[N+](=O)[O-])C(=O)O)[N+](=O)[O-].N	Ginkgo biloba extract
-C1=CC=C2C=CC=CC2=C1	Naphthalene
-C1=CC=C2C(=C1)C=CC=N2	Quinoline
-C1=CC(=C(C=C1C2=CC(=C(C=C2)N)Cl)Cl)N	3,3'-Dichlorobenzidine
-CCCCN(CCCC)N=O	N-Nitrosodi-n-butylamine
-C=CC(=O)NCO	N-Methylolacrylamide
-C1CCN(C1)N=O	N-Nitrosopyrrolidine
-CCCC1=CC2=C(C=C1)OCO2	Dihydrosafrole
-C=CCC1=CC2=C(C=C1)OCO2	Safrole
-C1=CC(=C(C=C1Cl)Cl)OCC(=O)O	2,4-D (2,4-dichlorophenoxyacetic acid) (See also Chlorophenoxy herbicides)
-CCN(CC)C(=S)SCC(=C)Cl	Sulfallate
-C1=CC=C(C(=C1)N)N	ortho-Phenylenediamine
-CC1=C(C=C(C=C1)N)N	2,4-Diaminotoluene
-C1=CC(=C(C=C1Cl)N)N	4-Chloro-ortho-phenylenediamine
-C1=CC(=C(C=C1Cl)N)O	2-Amino-4-chlorophenol
-C(C(CBr)Br)Cl	1,2-Dibromo-3-chloropropane
-C(C(CBr)Br)O	2,3-Dibromopropan-1-ol
-C(C(CCl)O)Cl	1,3-Dichloro-2-propanol
-C(C(CCl)O)O	3-Monochloro-1,2-propanediol
+CC=C(C)C(=O)OC1CCN2C1C(=CC2)COC(=O)C(C(C)OC)(C(C)(C)O)O	Lasiocarpine
+[Pb]	Lead
+CN(C)C1=CC=C(C=C1)C(C2=CC=CC=C2)C3=CC=C(C=C3)N(C)C	Leucomalachite green (see also Malachite green)
+CC1=CC(=C(C2=CC=C(C=C2)N)C3=CC=C(C=C3)N)C=CC1=N.Cl	Magenta
+CC1=CC2=C(NC3=CC=CC=C32)N=C1N	MeA-alpha-C (2-Amino-3-methyl-9H-pyrido[2,3-b]indole)
+CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(=O)CC4)C	Medroxyprogesterone acetate
+CC1=CC2=C(C=CC=N2)C3=C1N(C(=N3)N)C	MeIQ (2-Amino-3,4-dimethylimidazo[4,5-f]quinoline)
+CC1=CN=C2C=CC3=C(C2=N1)N=C(N3C)N	MeIQx (2-Amino-3,8-dimethylimidazo[4,5-f]quinoxaline)
+C1(=NC(=NC(=N1)N)N)N	Melamine
+C1=CC(=CC=C1CC(C(=O)O)N)N(CCCl)CCCl	Merphalan
 COC(=O)C=C	Methyl acrylate
-CC=CC1=CC(=C(C=C1)O)OC	Isoeugenol
-CC1=CC=CC=C1N=NC2=CC(=C(C=C2)N)C	ortho-Aminoazotoluene
-CCCCOC(=O)C(=C)C	Butyl methacrylate
-C1=COC(=C1)CO	Furfuryl alcohol
-C1=CC(=CC=C1C(F)(F)F)Cl	4-Chlorobenzotrifluoride
-CC(C)C1=CC=CC=C1	Cumene
-CC(=C)C1=CC=CC=C1	α-Methylstyrene
-C1=CC=C(C=C1)[N+](=O)[O-]	Nitrobenzene
+CC(C)CC(=O)C	Methyl isobutyl ketone
+CC(C)(C)OC	Methyl tert-butyl ether
+C[As](=O)(O)O	Methylarsonic acid
+CC(=O)OCN=[N+](C)[O-]	Methylazoxymethanol acetate
+CC1=CC(=O)NC(=S)N1	Methylthiouracil
+CC1=NC=C(N1CCO)[N+](=O)[O-]	Metronidazole
+CN(C)C1=CC=C(C=C1)CC2=CC=C(C=C2)N(C)C	Michler’s base [4,4´-methylenebis(N,N-dimethyl)­benzenamine]
+CN(C)C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)N(C)C	Michler’s ketone [4,4´-Bis(dimethylamino)­benzophenone]
+CC1C(NC(=O)C(NC(=O)C(C(NC(=O)C(NC(=O)C(NC(=O)C(=C)N(C(=O)CCC(NC1=O)C(=O)O)C)C)CC(C)C)C(=O)O)C)CCCN=C(N)N)C=CC(=CC(C)C(CC2=CC=CC=C2)OC)C	Microcystin-LR
+C12(C3(C4(C5(C3(C(C1(C5(C2(C4(Cl)Cl)Cl)Cl)Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl	Mirex
+CC1=C(C(=O)C2=C(C1=O)N3CC4C(C3(C2COC(=O)N)OC)N4)N	Mitomycin C
+C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO	Mitoxantrone
+O=[Mo](=O)=O	Molybdenum trioxide
+CC1C(=O)OC2CCN3C2C(=CC3)COC(=O)C(C1(C)O)(C)O	Monocrotaline
+CC(=O)NC1=CC=C(C=C1)C2=CC=C(C=C2)NC(=O)C	N,N'-Diacetylbenzidine
 CC1=CC=C(C=C1)N(C)C	N,N-Dimethyl-p-toluidine
+CC(=O)N(C)C	N,N-Dimethylacetamide
+CC(=O)NC1=NC(=CS1)C2=CC=C(O2)[N+](=O)[O-]	N-[4-(5-Nitro-2-furyl)-2-thiazolyl]acetamide
+CCOC(=O)N(C)N=O	N-Methyl-N-nitrosourethane
+C=CC(=O)NCO	N-Methylolacrylamide
+CCCCN(CCCC)N=O	N-Nitrosodi-n-butylamine
+CCCN(CCC)N=O	N-Nitrosodi-n-propylamine
+C(CO)N(CCO)N=O	N-Nitrosodiethanolamine
+CCN(C)N=O	N-Nitrosomethylethylamine
+CN(C=C)N=O	N-Nitrosomethylvinylamine
+C1COCCN1N=O	N-Nitrosomorpholine
+C1CCN(CC1)N=O	N-Nitrosopiperidine
+C1CCN(C1)N=O	N-Nitrosopyrrolidine
+CN(CC(=O)O)N=O	N-Nitrososarcosine
+CC(C)(C(=O)O)OC1=CC=C(C=C1)C2CCCC3=CC=CC=C23	Nafenopin
+C1=CC=C2C=CC=CC2=C1	Naphthalene
+[Ni]	Nickel, metallic
+C1CN(C(=O)N1)C2=NC=C(S2)[N+](=O)[O-]	Niridazole
+C(C(=O)O)N(CC(=O)O)CC(=O)O	Nitrilotriacetic acid and its salts
+C1=CC=C(C=C1)[N+](=O)[O-]	Nitrobenzene
+C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)Cl)Cl	Nitrofen (technical-grade)
+C[N+](CCCl)(CCCl)[O-]	Nitrogen mustard N-oxide
+C[N+](=O)[O-]	Nitromethane
+CC1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)NC(CC3=CC=CC=C3)C(=O)O)Cl	Ochratoxin A
+CC1=CC=CC=C1N=NC2=C(C=CC3=CC=CC=C32)O	Oil Orange SS
+CC1=CC=CC=C1N=NC2=CC(=C(C=C2)N)C	ortho-Aminoazotoluene
+C1=CC=C(C(=C1)N)N	ortho-Phenylenediamine
+C1=CC=C(C(=C1)N)N.Cl.Cl	ortho-Phenylenediamine dihydrochloride
+C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O	Oxazepam
+C1=C(OC(=C1)[N+](=O)[O-])C=CC2=CN=C(N=N2)N(CO)CO	Panfuran S (containing dihydroxymethylfuratrizine)
+C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N	para-Aminoazobenzene
+C1=CC(=CC=C1N)Cl	para-Chloroaniline
+CC1=CC(=C(C=C1)OC)N	para-Cresidine
+C1=CC(=CC=C1Cl)Cl	para-Dichlorobenzene
+CN(C)C1=CC=C(C=C1)N=NC2=CC=CC=C2	para-Dimethylaminoazobenzene
+COC1=CC=C(C=C1)[N+](=O)[O-]	para-Nitroanisole
+CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+](=O)[O-]	Parathion
+COC1COC(C(C1OS(=O)(=O)[O-])OS(=O)(=O)[O-])OC2COC(C(C2OS(=O)(=O)[O-])OS(=O)(=O)[O-])OC3COC(C(C3OS(=O)(=O)[O-])OC4C(C(C(C(O4)C(=O)[O-])OC)OS(=O)(=O)[O-])OS(=O)(=O)[O-])OC5COC(C(C5OS(=O)(=O)[O-])OS(=O)(=O)[O-])OC.[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]	Pentosan polysulfate sodium
+C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F	Perfluorooctanesulfonic acid (PFOS)
+C1=CC=C(C=C1)N=NC2=C(N=C(C=C2)N)N.Cl	Phenazopyridine hydrochloride
+CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2	Phenobarbital
+C1=CC=C2C(=C1)C(=O)OC2(C3=CC=C(C=C3)O)C4=CC=C(C=C4)O	Phenolphthalein
+CC(COC1=CC=CC=C1)N(CCCl)CC2=CC=CC=C2.Cl	Phenoxybenzamine hydrochloride
+C1C(O1)COC2=CC=CC=C2	Phenyl glycidyl ether
+C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3	Phenytoin
+CN1C2=C(N=CC(=C2)C3=CC=CC=C3)N=C1N	PhIP (2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine)
+CC1=CC(=C(C=C1C)N=NC2=C3C=CC(=CC3=CC(=C2O)S(=O)(=O)[O-])S(=O)(=O)[O-])C.[Na+].[Na+]	Ponceau 3R
+CC1=CC(=C(C=C1)N=NC2=C3C=C(C=CC3=CC(=C2O)S(=O)(=O)[O-])S(=O)(=O)[O-])C.[Na+].[Na+]	Ponceau MX
+[O-]Br(=O)=O.[K+]	Potassium bromate
+CCC1(C(=O)NCNC1=O)C2=CC=CC=C2	Primidone
+CC1CO1	Propylene oxide
+CCCC1=CC(=O)NC(=S)N1	Propylthiouracil
+CC1CCC(=C(C)C)C(=O)C1	Pulegone
+C1=CC=NC=C1	Pyridine
+C1=CC=C2C(=C1)C=CC=N2	Quinoline
+CC=C1CC(=C)C(C(=O)OCC2=CCN3C2C(CC3)OC1=O)(CO)O	Riddelliine
+C=CCC1=CC2=C(C=C1)OCO2	Safrole
+C1=CC=C(C=C1)C2=CC=CC=C2[O-].[Na+]	Sodium ortho-phenylphenate
+COC1=C2C(=C3C4C=COC4OC3=C1)OC5=CC=CC(=C5C2=O)O	Sterigmatocystin
+CN(C(=O)NC1C(C(C(OC1O)CO)O)O)N=O	Streptozotocin
+CCN(CC)C(=S)SCC(=C)Cl	Sulfallate
+C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O	Sulfasalazine
+COP(=O)(OC)OC(=CCl)C1=CC(=C(C=C1Cl)Cl)Cl	Tetrachlorvinphos
+C1CCOC1	Tetrahydrofuran
+C([N+](=O)[O-])([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-]	Tetranitromethane
+CC(=S)N	Thioacetamide
+C1=CNC(=S)NC1=O	Thiouracil
+O=[Ti]=O	Titanium dioxide
+C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl	Toxaphene (Polychlorinated camphenes)
+CN(C)C=NC1=NN=C(O1)C=CC2=CC=C(O2)[N+](=O)[O-]	trans-2-[(Dimethylamino)methylimino]-5-[2-(5-nitro-2-furyl)-vinyl]-1,3,4-oxadiazole
+C1=CC=C(C=C1)C2=NC3=C(N=C(N=C3N=C2N)N)N	Triamterene
+C(CCl)N(CCCl)CCCl.Cl	Trichlormethine (Trimustine hydrochloride)
+C(=O)(C(Cl)(Cl)Cl)O	Trichloroacetic acid
+CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C	Trimethylolpropane triacrylate, technical grade
+CC1=C2C(=C(N=C1N)C)C3=CC=CC=C3N2	Trp-P-1 (3-Amino-1,4-dimethyl-5H-pyrido[4,3-b]indole)
+CC1=C2C3=CC=CC=C3NC2=CC(=N1)N	Trp-P-2 (3-Amino-1-methyl-5H-pyrido[4,3-b]indole)
+CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])N)O)C)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)[O-])S(=O)(=O)[O-])N)O.[Na+].[Na+].[Na+].[Na+]	Trypan blue
+C1=C(C(=O)NC(=O)N1)N(CCCl)CCCl	Uracil mustard
+O=[V](=O)O[V](=O)=O	Vanadium pentoxide
+CC1(C(=O)N(C(=O)O1)C2=CC(=CC(=C2)Cl)Cl)C=C	Vinclozolin
+CC(=O)OC=C	Vinyl acetate
+C=C(Cl)Cl	Vinylidene chloride
+C1CC(OC1CO)N2C=CC(=NC2=O)N	Zalcitabine
+CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=[N-]	Zidovudine (AZT)
+CC(=C)C1=CC=CC=C1	α-Methylstyrene
+CC(=CCCC(=C)C=C)C	β-Myrcene

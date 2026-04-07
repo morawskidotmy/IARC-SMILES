@@ -1,79 +1,79 @@
-[Sb+3]	Trivalent antimony
-C=CC1=CC=CC=C1	Styrene
-C1C(O1)CCl	Epichlorohydrin
-CC(=C)C(=O)OCC1CO1	Glycidyl methacrylate
-C(CBr)Br	Ethylene dibromide
-C=CC=O	Acrolein
-C(C(=O)O)NCP(=O)(O)O	Glyphosate
-CCC1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3	Pioglitazone
-C1COS(=O)(=O)C1	1,3-Propane sultone
-C(=C(F)F)(F)F	Tetrafluoroethylene
-CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC	Malathion
-C(C(CBr)Br)OP(=O)(OCC(CBr)Br)OCC(CBr)Br	Tris(2,3-dibromopropyl) phosphate
-C(=C(Cl)Cl)(Cl)Cl	Tetrachloroethylene (Perchloroethylene)
-C1CCC(CC1)NC(=O)N(CCCl)N=O	1-(2-Chloroethyl)-3-cyclohexyl-1-nitrosourea (CCNU) (Lomustine)
-COC1=CC=CC=C1N.Cl	ortho-Anisidine hydrochloride (see also ortho-Anisidine)
-CC(CCl)OP(=O)(OC(C)CCl)OC(C)CCl	Tris(chloropropyl) phosphate (TCPP)
-C1=CC(=C(C=C1N=NC2=CC(=C(C=C2)Cl)Cl)Cl)Cl	3,3′,4,4′-Tetrachloroazobenzene
-C1=CC=C(C=C1)N.Cl	Aniline hydrochloride (see also Aniline)
-[OH-].[OH-].[O-][Si]12O[Si]3(O[Si](O1)(O[Si](O2)(O3)[O-])[O-])[O-].[Mg+2].[Mg+2].[Mg+2]	Talc
-C1=CC=C2C(=C1)NC(=S)S2	2-Mercaptobenzothiazole
-C(CCl)NC(=O)N(CCCl)N=O	Bischloroethyl nitrosourea (BCNU) (Carmustine)
-N.N.Cl[Pt]Cl	Cisplatin
-CCC1=C(C(=CC=C1)CC)N(COC)C(=O)CCl	Alachlor
-C1=CC=C2C(=C1)C=C3C=CC4=C5C3=C2C6=CC=CC=C6C5=CC=C4	Dibenzo[a,l]pyrene
-CCNC1=NC(=NC(=N1)Cl)NC(C)C	Atrazine
-P#[In]	Indium phosphide
-C1=CC=C2C(=C1)C=CC3=NC4=C(C=C32)C5=CC=CC=C5C=C4	Dibenz[a,j]acridine
-CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O	Adriamycin (Doxorubicin)
-C1C=CCC2C1C(=O)N(C2=O)SC(C(Cl)Cl)(Cl)Cl	Captafol
-C1=CC2=C3C(=C1)C=C4C=CC5=C4C3=C(C=C2)C=C5	Cyclopenta[cd]pyrene
-COC1=CC(=CC(=C1O)OC)C2C3C(COC3=O)C(C4=CC5=C(C=C24)OCO5)OC6C(C(C7C(O6)COC(O7)C8=CC=CS8)O)O	Teniposide
-NN	Hydrazine
-C(C(Cl)(Cl)Cl)(O)O	Chloral hydrate
-C1=NC(=NC(=O)N1C2C(C(C(O2)CO)O)O)N	Azacitidine
-CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C	Diazinon
-CC(C)NC(=O)C1=CC=C(C=C1)CNNC.Cl	Procarbazine hydrochloride
-[C-]#[Si+]	Silicon carbide whiskers
-COC1=C2C=CC(=O)OC2=CC3=C1C=CO3	5-Methoxypsoralen
-C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl	DDT (4,4'-dichlorodiphenyltrichloroethane)
-CN(CCCl)CCCl	Nitrogen mustard
-CCOC(=O)N	Ethyl carbamate (Urethane)
-C1=CC=C2C(=C1)C=CC3=CC4=C(C=CC5=CC=CC=C54)C=C32	Dibenz[a,h]anthracene
+CC(Cl)(Cl)Cl	1,1,1-Trichloroethane
+C(C(CCl)Cl)Cl	1,2,3-Trichloropropane
 CNNC	1,2-Dimethylhydrazine
-C(CCl)N(C(=O)NC(C=O)C(C(C(CO)O)O)O)N=O	Chlorozotocin
-CCN(CC)N=O	N-Nitrosodiethylamine
+C1COS(=O)(=O)C1	1,3-Propane sultone
+C1CCC(CC1)NC(=O)N(CCCl)N=O	1-(2-Chloroethyl)-3-cyclohexyl-1-nitrosourea (CCNU) (Lomustine)
 C1=CC2=C3C(=C1)C=CC4=C(C=CC(=C43)C=C2)[N+](=O)[O-]	1-Nitropyrene
-C1C(O1)CO	Glycidol
-C1=CC(=CC=C1C(C(CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]	Chloramphenicol
-C=CBr	Vinyl bromide
-C1=CC(=C(C(=C1C2=CC(=C(C(=C2)Br)Br)Br)Br)Br)Br	Polybrominated biphenyls
-C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl	Dieldrin, and aldrin metabolized to dieldrin
+CC(C)Br	2-Bromopropane
+C1=CC=C2C(=C1)NC(=S)S2	2-Mercaptobenzothiazole
+CC1=CC=CC=C1[N+](=O)[O-]	2-Nitrotoluene
+C1=CC(=C(C=C1N=NC2=CC(=C(C=C2)Cl)Cl)Cl)Cl	3,3′,4,4′-Tetrachloroazobenzene
+CC1=C(C=CC(=C1)Cl)N	4-Chloro-ortho-toluidine
+COC1=C2C=CC(=O)OC2=CC3=C1C=CO3	5-Methoxypsoralen
+C1=CC=C2C(=C1)C=CC3=C2C=C(C4=CC=CC=C34)[N+](=O)[O-]	6-Nitrochrysene
+C=CC=O	Acrolein
+C=CC(=O)N	Acrylamide
+CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O	Adriamycin (Doxorubicin)
+CCC1=C(C(=CC=C1)CC)N(COC)C(=O)CCl	Alachlor
+C1=CC=C(C=C1)C(Cl)Cl	alpha-Chlorinated toluenes (benzal chloride, benzotrichloride, benzyl chloride) and benzoyl chloride (combined exposures)
 C1=CC=C(C=C1)N	Aniline (see also Aniline hydrochloride)
-CN(C)N=O	N-Nitrosodimethylamine
+C1=CC=C(C=C1)N.Cl	Aniline hydrochloride (see also Aniline)
+CCNC1=NC(=NC(=N1)Cl)NC(C)C	Atrazine
+C1=NC(=NC(=O)N1C2C(C(C(O2)CO)O)O)N	Azacitidine
+C(CCl)NC(=O)N(CCCl)N=O	Bischloroethyl nitrosourea (BCNU) (Carmustine)
+C1C=CCC2C1C(=O)N(C2=O)SC(C(Cl)Cl)(Cl)Cl	Captafol
+C(=O)C(Cl)(Cl)Cl	Chloral
+C(C(Cl)(Cl)Cl)(O)O	Chloral hydrate
+C1=CC(=CC=C1C(C(CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]	Chloramphenicol
+C(CCl)N(C(=O)NC(C=O)C(C(C(CO)O)O)O)N=O	Chlorozotocin
+N.N.Cl[Pt]Cl	Cisplatin
+[Co]	Cobalt metal (without tungsten carbide or other metal alloys)
+C1=CC2=C3C(=C1)C=C4C=CC5=C4C3=C(C=C2)C=C5	Cyclopenta[cd]pyrene
+C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl	DDT (4,4'-dichlorodiphenyltrichloroethane)
+CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C	Diazinon
+C1=CC=C2C(=C1)C=CC3=CC4=C(C=CC5=CC=CC=C54)C=C32	Dibenz[a,h]anthracene
+C1=CC=C2C(=C1)C=CC3=NC4=C(C=C32)C5=CC=CC=C5C=C4	Dibenz[a,j]acridine
+C1=CC=C2C(=C1)C=C3C=CC4=C5C3=C2C6=CC=CC=C6C5=CC=C4	Dibenzo[a,l]pyrene
+C(Cl)Cl	Dichloromethane (Methylene chloride)
+C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl	Dieldrin, and aldrin metabolized to dieldrin
 CCOS(=O)(=O)OCC	Diethyl sulfate
+COS(=O)(=O)OC	Dimethyl sulfate
+CN(C)C(=O)Cl	Dimethylcarbamoyl chloride
+C1C(O1)CCl	Epichlorohydrin
+CCOC(=O)N	Ethyl carbamate (Urethane)
+C(CBr)Br	Ethylene dibromide
+C1C(O1)CO	Glycidol
+CC(=C)C(=O)OCC1CO1	Glycidyl methacrylate
+C(C(=O)O)NCP(=O)(O)O	Glyphosate
+NN	Hydrazine
+P#[In]	Indium phosphide
+CN1C2=C(C3=C(C=C2)N=CC=C3)N=C1N	IQ (2-Amino-3-methylimidazo[4,5-f]quinoline)
+CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC	Malathion
 COS(=O)(=O)C	Methyl methanesulfonate
+COC1=C(C=C(C=C1)CC=C)OC	Methyleugenol
 CN(C)C=O	N,N-Dimethylformamide
+CCN(C(=O)N)N=O	N-Ethyl-N-nitrosourea
 CN(C(=O)N)N=O	N-Methyl-N-nitrosourea
 CN(C(=N)N[N+](=O)[O-])N=O	N-Methyl-N´-nitro-N-nitrosoguanidine (MNNG)
-CC(Cl)(Cl)Cl	1,1,1-Trichloroethane
-[Co]	Cobalt metal (without tungsten carbide or other metal alloys)
-C1=CC=C2C(=C1)C=CC3=C2C=C(C4=CC=CC=C34)[N+](=O)[O-]	6-Nitrochrysene
-C=CF	Vinyl fluoride
-C(Cl)Cl	Dichloromethane (Methylene chloride)
-CC(C)Br	2-Bromopropane
-C(=O)C(Cl)(Cl)Cl	Chloral
-CCN(C(=O)N)N=O	N-Ethyl-N-nitrosourea
-CN1C2=C(C3=C(C=C2)N=CC=C3)N=C1N	IQ (2-Amino-3-methylimidazo[4,5-f]quinoline)
-COS(=O)(=O)OC	Dimethyl sulfate
-C=CC(=O)N	Acrylamide
-CN(C)C(=O)Cl	Dimethylcarbamoyl chloride
-CC(C)(C1=CC(=C(C(=C1)Br)O)Br)C2=CC(=C(C(=C2)Br)O)Br	Tetrabromobisphenol A
-CC1=CC=CC=C1[N+](=O)[O-]	2-Nitrotoluene
+CCN(CC)N=O	N-Nitrosodiethylamine
+CN(C)N=O	N-Nitrosodimethylamine
+CN(CCCl)CCCl	Nitrogen mustard
 COC1=CC=CC=C1N	ortho-Anisidine (see also ortho-Anisidine hydrochloride)
+COC1=CC=CC=C1N.Cl	ortho-Anisidine hydrochloride (see also ortho-Anisidine)
 COC1=CC=CC=C1[N+](=O)[O-]	ortho-Nitroanisole
-COC1=C(C=C(C=C1)CC=C)OC	Methyleugenol
-CC1=C(C=CC(=C1)Cl)N	4-Chloro-ortho-toluidine
+CCC1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3	Pioglitazone
+C1=CC(=C(C(=C1C2=CC(=C(C(=C2)Br)Br)Br)Br)Br)Br	Polybrominated biphenyls
+CC(C)NC(=O)C1=CC=C(C=C1)CNNC.Cl	Procarbazine hydrochloride
+[C-]#[Si+]	Silicon carbide whiskers
+C=CC1=CC=CC=C1	Styrene
 C1C(O1)C2=CC=CC=C2	Styrene-7,8-oxide
-C(C(CCl)Cl)Cl	1,2,3-Trichloropropane
-C1=CC=C(C=C1)C(Cl)Cl	alpha-Chlorinated toluenes (benzal chloride, benzotrichloride, benzyl chloride) and benzoyl chloride (combined exposures)
+[OH-].[OH-].[O-][Si]12O[Si]3(O[Si](O1)(O[Si](O2)(O3)[O-])[O-])[O-].[Mg+2].[Mg+2].[Mg+2]	Talc
+COC1=CC(=CC(=C1O)OC)C2C3C(COC3=O)C(C4=CC5=C(C=C24)OCO5)OC6C(C(C7C(O6)COC(O7)C8=CC=CS8)O)O	Teniposide
+CC(C)(C1=CC(=C(C(=C1)Br)O)Br)C2=CC(=C(C(=C2)Br)O)Br	Tetrabromobisphenol A
+C(=C(Cl)Cl)(Cl)Cl	Tetrachloroethylene (Perchloroethylene)
+C(=C(F)F)(F)F	Tetrafluoroethylene
+C(C(CBr)Br)OP(=O)(OCC(CBr)Br)OCC(CBr)Br	Tris(2,3-dibromopropyl) phosphate
+CC(CCl)OP(=O)(OC(C)CCl)OC(C)CCl	Tris(chloropropyl) phosphate (TCPP)
+[Sb+3]	Trivalent antimony
+C=CBr	Vinyl bromide
+C=CF	Vinyl fluoride

@@ -1,0 +1,206 @@
+1	Acheson process, occupational exposure associated with	none
+1	Acid mists, strong inorganic	none
+1	Alcoholic beverages	none
+1	Aluminium production	none
+1	Areca nut	none
+1	Auramine production	none
+1	Automotive gasoline (see also Gasoline engine exhaust, and Aviation gasoline)	none
+1	Betel quid with tobacco	none
+1	Betel quid without tobacco	none
+1	Clonorchis sinensis (infection with)	none
+1	Coal gasification	none
+1	Coal, indoor emissions from household combustion of	none
+1	Coal-tar distillation	8007-45-2
+1	Coal-tar pitch	65996-93-2
+1	Coke production	none
+1	Engine exhaust, diesel	none
+1	Epstein-Barr virus	none
+1	Estrogen therapy, postmenopausal	none
+1	Estrogen-progestogen menopausal therapy (combined)	none
+1	Estrogen-progestogen oral contraceptives (combined)	none
+1	Firefighter (occupational exposure as a)	none
+1	Fission products, including strontium-90	none
+1	Fluoro-edenite fibrous amphibole	none
+1	Haematite mining (underground)	none
+1	Helicobacter pylori (infection with)	none
+1	Hepatitis B virus (chronic infection with)	none
+1	Hepatitis C virus (chronic infection with)	none
+1	Human immunodeficiency virus type 1 (infection with)	none
+1	Human papillomavirus (HPV) type 16	none
+1	Human papillomavirus (HPV) type 18	none
+1	Human papillomavirus (HPV) type 33	none
+1	Human papillomavirus (HPV) types 31, 35, 39, 45, 51, 52, 56, 58, 59	none
+1	Human T-cell lymphotropic virus type I	none
+1	Ionizing radiation (all types)	none
+1	Isopropyl alcohol manufacture using strong acids	none
+1	Kaposi sarcoma herpesvirus	none
+1	Leather dust	none
+1	Magenta production	none
+1	Merkel cell polyomavirus (MCPyV)	none
+1	Mineral oils, untreated or mildly treated	none
+1	MOPP and other combined chemotherapy including alkylating agents	none
+1	Neutron radiation	none
+1	Opisthorchis viverrini (infection with)	none
+1	Opium consumption	none
+1	Outdoor air pollution	none
+1	Outdoor air pollution, particulate matter in	none
+1	Painter (occupational exposure as a)	none
+1	Polychlorinated biphenyls	1336-36-3
+1	Polychlorinated biphenyls, dioxin-like, with a Toxicity Equivalency Factor (TEF) according to WHO (PCBs 77, 81, 105, 114, 118, 123, 126, 156, 157, 167, 169, 189)	none
+1	Processed meat (consumption of)	none
+1	Radioiodines, including iodine-131	none
+1	Radionuclides, alpha-particle-emitting, internally deposited	none
+1	Radionuclides, beta-particle-emitting, internally deposited	none
+1	Rubber manufacturing industry	none
+1	Salted fish, Chinese-style	none
+1	Schistosoma haematobium (infection with)	none
+1	Shale oils	68308-34-9
+1	Solar radiation (see Ultraviolet radiation (wavelengths 100–400 nm, encompassing UVA, UVB, and UVC); Ultraviolet radiation from welding; and Ultraviolet-emitting tanning devices)	none
+1	Soot (as found in occupational exposure of chimney sweeps)	none
+1	Tobacco smoke, secondhand	none
+1	Tobacco smoking	none
+1	Tobacco, smokeless	none
+1	Ultraviolet radiation (wavelengths 100–400 nm, encompassing UVA, UVB, and UVC) (see Ultraviolet radiation from welding; Ultraviolet-emitting tanning devices; and Solar radiation)	none
+1	Ultraviolet radiation from welding (see Ultraviolet radiation (wavelengths 100–400 nm, encompassing UVA, UVB, and UVC); Ultraviolet-emitting tanning devices; and Solar radiation)	none
+1	Ultraviolet-emitting tanning devices (see Ultraviolet radiation (wavelengths 100–400 nm, encompassing UVA, UVB, and UVC); Ultraviolet radiation from welding; and Solar radiation)	none
+1	Welding fumes	none
+1	Wood dust	none
+1	X- and Gamma-Radiation	none
+2A	Androgenic (anabolic) steroids	none
+2A	Art glass, glass containers and pressed ware (manufacture of)	none
+2A	Biomass fuel (primarily wood), indoor emissions from household combustion of	none
+2A	Bitumens, occupational exposure to oxidized bitumens and their emissions during roofing	64742-93-4
+2A	Carbon electrode manufacture	none
+2A	Creosotes	8001-58-9
+2A	Frying, emissions from high-temperature	none
+2A	Hairdresser or barber (occupational exposure as a)	none
+2A	Human papillomavirus (HPV) type 68	none
+2A	Lead compounds, inorganic	none
+2A	Malaria (caused by infection with Plasmodium falciparum in holoendemic areas)	none
+2A	Night shift work	none
+2A	Nitrate or nitrite (ingested) under conditions that result in endogenous nitrosation	none
+2A	Non-arsenical insecticides (occupational exposures in spraying and application of)	none
+2A	Petroleum refining (occupational exposures in)	none
+2A	Red meat (consumption of)	none
+2A	Soluble cobalt(II) salts	none
+2A	Very hot beverages at above 65 °C (drinking)	none
+2B	Aloe vera, whole leaf extract	none
+2B	Aviation gasoline (see also Automotive gasoline, and Gasoline engine exhaust)	none
+2B	Bitumens, occupational exposure to hard bitumens and their emissions during mastic asphalt work	none
+2B	Bitumens, occupational exposure to straight-run bitumens and their emissions during road paving	8052-42-4,
+64741-56-6
+2B	Bracken fern	none
+2B	Carpentry and joinery	none
+2B	Carrageenan, degraded (Poligeenan)	53973-98-1
+2B	Chlorinated paraffins of average carbon chain length C12 and average degree of chlorination approximately 60%	none
+2B	Chlorophenoxy herbicides	none
+2B	Coconut oil diethanolamine condensate	68603-42-9
+2B	Diesel fuel, marine	none
+2B	Dry cleaning (occupational exposures in)	none
+2B	Engine exhaust, gasoline	none
+2B	Fuel oils, residual (heavy)	none
+2B	Goldenseal root powder	none
+2B	Human cytomegalovirus (HCMV)	none
+2B	Human immunodeficiency virus type 2 (infection with)	none
+2B	Human papillomavirus (HPV) types 26, 53, 66, 67, 70, 73, 82	none
+2B	Human papillomavirus (HPV) types 30, 34, 69, 85, 97	none
+2B	Human papillomavirus (HPV) types 5 and 8 (in patients with epidermodysplasia verruciformis)	none
+2B	Implanted foreign bodies of metallic cobalt, metallic nickel and an alloy powder containing 66-67% nickel, 13-16% chromium, and 7% iron	none
+2B	Iron-dextran complex	9004-66-4
+2B	JC polyomavirus (JCV)	none
+2B	Magnetic fields, extremely low-frequency	none
+2B	Metallic implants prepared as thin smooth films	none
+2B	Methylmercury compounds	none
+2B	Palygorskite (Attapulgite) (long fibres, > 5 micrometres)	12174-11-7
+2B	Pickled vegetables (traditional Asian)	none
+2B	Polychlorophenols and their sodium salts (mixed exposures) (see Pentachlorophenol; 2,4,6-Trichlorophenol)	none
+2B	Polymeric implant prepared as thin smooth films (with the exception of poly-glycolic acid)	none
+2B	Printing processes (occupational exposures in)	none
+2B	Progestins (see also Progestogen-only contraceptives)	none
+2B	Progestogen-only contraceptives	none
+2B	Radiofrequency electromagnetic fields	none
+2B	Refractory ceramic fibres	none
+2B	Schistosoma japonicum (infection with)	none
+2B	Silicon carbide, fibrous	308076-74-6
+2B	Special-purpose fibres such as E-glass and '475' glass fibres	none
+2B	Textile manufacturing industry (work in)	none
+2B	Toluene diisocyanates	26471-62-5
+2B	Weapons-grade tungsten (with nickel and cobalt) alloy	none
+3	Acrylic fibres	none
+3	Acrylonitrile-butadiene-styrene copolymers	none
+3	Anaesthetics, volatile	none
+3	Bisulfites	none
+3	Calcium carbide production	none
+3	Ceramic implants	none
+3	Chlorinated drinking-water	none
+3	Coal dust	none
+3	Coffee, drinking	none
+3	Crude oil	8002-05-9
+3	Dental materials	none
+3	Diesel fuels, distillate (light)	none
+3	Electric fields, extremely low-frequency	none
+3	Electric fields, static	none
+3	Ethyl selenac	5456-28-0
+3	Flat-glass and specialty glass (manufacture of)	none
+3	Fluorescent lighting	none
+3	Fuel oils, distillate (light)	none
+3	Fusarium graminearum, F. culmorum, and F. crookwellense, toxins derived from (zearalenone, deoxynivalenol, nivalenol, and fusarenone X)	none
+3	Glass filament, continuous	none
+3	Hair colouring products (personal use of)	none
+3	Human papillomavirus (HPV) genus beta (except types 5 and 8) and genus gamma	none
+3	Human papillomavirus (HPV) types 6 and 11	none
+3	Human T-cell lymphotropic virus type II	none
+3	Hypochlorite salts	none
+3	Insulation glass wool	none
+3	Iron-dextrin complex	9004-51-7
+3	Isopropyl oils	none
+3	Jet fuel	none
+3	Lead compounds, organic	none
+3	Leather goods manufacture (see also Leather dust)	none
+3	Leather tanning and processing	none
+3	Lumber and sawmill industries (including logging)	none
+3	Magnetic fields, static	none
+3	Mate, not very hot (drinking)	none
+3	Metabisulfites	none
+3	Microcystis extracts	none
+3	Mineral oils, highly-refined	none
+3	Modacrylic fibres	none
+3	Nylon 6	25038-54-4
+3	Opisthorchis felineus (infection with)	none
+3	Organic polymeric materials	none
+3	Orthopaedic implants of complex composition and cardiac pacemakers	none
+3	Other cobalt(II) compounds (not including Soluble cobalt(II) salts, Cobalt(II) oxide, Cobalt(II,III) oxide, and Cobalt(II) sulfide)	none
+3	Paint manufacture (occupational exposure in)	none
+3	Palygorskite (Attapulgite)(short fibres, < 5 micrometres)	12174-11-7
+3	para-Aramid fibrils	24938-64-5
+3	Petroleum solvents	none
+3	Polyacrylic acid	9003-01-4
+3	Polychlorinated dibenzo-para-dioxins (other than 2,3,7,8-tetrachlorodibenzo-para-dioxin)	none
+3	Polychlorinated dibenzofurans (see 2,3,4,7,8-Pentachlorodibenzofuran)	none
+3	Polychloroprene	9010-98-4
+3	Polyethylene	9002-88-4
+3	Polymethyl methacrylate	9011-14-7
+3	Polypropylene	9003-07-0
+3	Polystyrene	9003-53-6
+3	Polytetrafluoroethylene	9002-84-0
+3	Polyvinyl acetate	9003-20-7
+3	Polyvinyl alcohol	9002-89-5
+3	Polyvinyl chloride	9002-86-2
+3	Polyvinyl pyrrolidone	9003-39-8
+3	Printing inks	none
+3	Proflavine salts	none
+3	Pulp and paper manufacture	none
+3	Rock (stone) wool	none
+3	Saccharated iron oxide	8047-67-4
+3	Schistosoma mansoni (infection with)	none
+3	Silicone breast implants	none
+3	Slag wool	none
+3	Styrene-acrylonitrile copolymers	9003-54-7
+3	Styrene-butadiene copolymers	9003-55-8
+3	SV40 polyomavirus	none
+3	Tea	none
+3	Tetrakis(hydroxymethyl)phosphonium salts	none
+3	Vinyl chloride-vinyl acetate copolymers	9003-22-9
+3	Vinyl toluene	25013-15-4
+3	Vinylidene chloride-vinyl chloride copolymers	9011-06-7
+3	Xylenes	1330-20-7

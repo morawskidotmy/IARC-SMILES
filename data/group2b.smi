@@ -102,6 +102,7 @@ CCCC=O	Butyraldehyde
 C1=CC(=C(C=C1C=CC(=O)O)O)O	Caffeic acid
 C1=CC=C2C(=C1)C3=CC=CC=C3N2	Carbazole
 C	Carbon black
+[C]	Carbon nanotubes, multiwalled MWCNT-7
 C(Cl)(Cl)(Cl)Cl	Carbon tetrachloride
 C1=CC=C(C(=C1)O)O	Catechol
 C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl	Chlordane

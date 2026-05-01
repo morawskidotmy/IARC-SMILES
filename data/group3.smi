@@ -129,6 +129,7 @@ C1CCC(=O)NCC1	Caprolactam
 C1C=CCC2C1C(=O)N(C2=O)SC(Cl)(Cl)Cl	Captan
 CNC(=O)OC1=CC=CC2=CC=CC=C21	Carbaryl
 C	Carbon nanotubes, multiwalled, other than MWCNT-7
+[C]	Carbon nanotubes, single-walled
 C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])N=NC3=C(C4=CC=CC=C4C(=C3)S(=O)(=O)[O-])O.[Na+].[Na+]	Carmoisine
 CCC(=O)C1=C(C(=C(C=C1)F)C2CC2NC(=O)NC3=NC=C(C=C3)C#N)O.CC(=O)[O-].CC(=O)[O-].[Zn+2]	Carrageenan, native
 NCl	Chloramine
@@ -200,6 +201,7 @@ C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl	Endrin
 C1=CC=C2C(=C1)C(=O)OC23C4=CC(=C(C(=C4OC5=C(C(=C(C=C35)Br)O)Br)Br)O)Br	Eosin
 C1C2=NN=CN2C3=C(C=C(C=C3)Cl)C(=N1)C4=CC=CC=C4	Estazolam
 CCC1=NC=CC(=C1)C(=S)N	Ethionamide
+CCN(CC)C(=S)[S-].CCN(CC)C(=S)[S-].CCN(CC)C(=S)[S-].CCN(CC)C(=S)[S-].[Se+4]	Ethyl selenac
 CCN(CC)C(=S)S[Te](SC(=S)N(CC)CC)(SC(=S)N(CC)CC)SC(=S)N(CC)CC	Ethyl tellurac
 C=C	Ethylene
 C1CS1	Ethylene sulfide

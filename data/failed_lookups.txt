@@ -140,7 +140,6 @@
 3	Diesel fuels, distillate (light)	none
 3	Electric fields, extremely low-frequency	none
 3	Electric fields, static	none
-3	Ethyl selenac	5456-28-0
 3	Flat-glass and specialty glass (manufacture of)	none
 3	Fluorescent lighting	none
 3	Fuel oils, distillate (light)	none

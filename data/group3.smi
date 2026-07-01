@@ -309,6 +309,7 @@ CC12CCC3C(C1CCC2OC(=O)CC4=CC=C(C=C4)N(CCCl)CCCl)CCC5=C3C=CC(=C5)OC(=O)CC6=CC=C(C
 C1=CC=C(C(=C1)Cl)Cl	ortho-Dichlorobenzene
 C1=CC=C(C=C1)C2=CC=CC=C2O	ortho-Phenylphenol
 CCCCC1C(=O)N(N(C1=O)C2=CC=C(C=C2)O)C3=CC=CC=C3	Oxyphenbutazone
+O.[OH-].[O-][Si](=O)O[Si](=O)[O-].[Mg].[Al].[Fe]	Palygorskite (Attapulgite)(short fibres, < 5 micrometres)
 C1=CC(=CC=C1C(=O)O)N	para-Aminobenzoic acid
 COC1=CC=C(C=C1)N	para-Anisidine
 C1=CC(=CC=C1NO)N=O	para-Benzoquinone dioxime
@@ -409,6 +410,7 @@ C1CN1C2=CC(=O)C(=C(C2=O)N3CC3)N4CC4	Tris(aziridinyl)-para-benzoquinone (Triaziqu
 C1=CC=C2C(=C1)C3=C4C(=CC=C5C4=C(C=C3)C(=O)C6=CC=CC=C65)C2=O	Vat Yellow 4
 CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O.OS(=O)(=O)O	Vinblastine sulfate
 CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O.OS(=O)(=O)O	Vincristine sulfate
+CC1=CC=CC=C1C=C	Vinyl toluene
 C=C(F)F	Vinylidene fluoride
 CC1=C(C(=O)C2=CC=CC=C2C1=O)CC=C(C)CCCC(C)CCCC(C)CCCC(C)C	Vitamin K substances
 [O-][Si](=O)[O-].[Ca+2]	Wollastonite

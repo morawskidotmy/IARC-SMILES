@@ -225,6 +225,7 @@ CC1=CC=CC=C1N=NC2=CC(=C(C=C2)N)C	ortho-Aminoazotoluene
 C1=CC=C(C(=C1)N)N	ortho-Phenylenediamine
 C1=CC=C(C(=C1)N)N.Cl.Cl	ortho-Phenylenediamine dihydrochloride
 C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O	Oxazepam
+O.[OH-].[O-][Si](=O)O[Si](=O)[O-].[Mg].[Al].[Fe]	Palygorskite (Attapulgite) (long fibres, > 5 micrometres)
 C1=C(OC(=C1)[N+](=O)[O-])C=CC2=CN=C(N=N2)N(CO)CO	Panfuran S (containing dihydroxymethylfuratrizine)
 C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N	para-Aminoazobenzene
 C1=CC(=CC=C1N)Cl	para-Chloroaniline

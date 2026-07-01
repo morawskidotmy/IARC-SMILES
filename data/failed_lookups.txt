@@ -111,7 +111,6 @@
 2B	Magnetic fields, extremely low-frequency	none
 2B	Metallic implants prepared as thin smooth films	none
 2B	Methylmercury compounds	none
-2B	Palygorskite (Attapulgite) (long fibres, > 5 micrometres)	12174-11-7
 2B	Pickled vegetables (traditional Asian)	none
 2B	Polychlorophenols and their sodium salts (mixed exposures) (see Pentachlorophenol; 2,4,6-Trichlorophenol)	none
 2B	Polymeric implant prepared as thin smooth films (with the exception of poly-glycolic acid)	none
@@ -170,7 +169,6 @@
 3	Orthopaedic implants of complex composition and cardiac pacemakers	none
 3	Other cobalt(II) compounds (not including Soluble cobalt(II) salts, Cobalt(II) oxide, Cobalt(II,III) oxide, and Cobalt(II) sulfide)	none
 3	Paint manufacture (occupational exposure in)	none
-3	Palygorskite (Attapulgite)(short fibres, < 5 micrometres)	12174-11-7
 3	para-Aramid fibrils	24938-64-5
 3	Petroleum solvents	none
 3	Polyacrylic acid	9003-01-4
@@ -200,6 +198,5 @@
 3	Tea	none
 3	Tetrakis(hydroxymethyl)phosphonium salts	none
 3	Vinyl chloride-vinyl acetate copolymers	9003-22-9
-3	Vinyl toluene	25013-15-4
 3	Vinylidene chloride-vinyl chloride copolymers	9011-06-7
 3	Xylenes	1330-20-7

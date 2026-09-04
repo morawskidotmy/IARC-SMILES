@@ -96,6 +96,7 @@ C1=CC=C(C=C1)C2=CN(C3=C2C(=O)NC=N3)C4=CC=C(C=C4)Br	BK polyomavirus (BKV)
 CC1=C(N=C(N=C1N)C(CC(=O)N)NCC(C(=O)N)N)C(=O)NC(C(C2=CN=CN2)OC3C(C(C(C(O3)CO)O)O)OC4C(C(C(C(O4)CO)O)OC(=O)N)O)C(=O)NC(C)C(C(C)C(=O)NC(C(C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O	Bleomycins
 C(C(=O)O)(Cl)Br	Bromochloroacetic acid
 C(Cl)(Cl)Br	Bromodichloromethane
+CCCCOC(=O)C1=CC=CC=C1C(=O)OCC2=CC=CC=C2	Butyl benzyl phthalate
 CCCCOC(=O)C(=C)C	Butyl methacrylate
 CC(C)(C)C1=C(C=CC(=C1)OC)O	Butylated hydroxyanisole (BHA)
 CCCC=O	Butyraldehyde
@@ -133,12 +134,14 @@ C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC6=CC=CC=C56)C=C3	Dibenzo[a,h]pyrene
 C1=CC=C2C3=C4C(=CC2=C1)C=CC5=CC6=CC=CC=C6C(=C54)C=C3	Dibenzo[a,i]pyrene
 C(C(=O)O)(Br)Br	Dibromoacetic acid
 C(#N)C(Br)Br	Dibromoacetonitrile
+CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC	Dibutyl phthalate
 C(C(=O)O)(Cl)Cl	Dichloroacetic acid
 COP(=O)(OC)OC=C(Cl)Cl	Dichlorvos
 C(CO)NCCO	Diethanolamine
 C1C(O1)COC2=CC(=CC=C2)OCC3CO3	Diglycidyl resorcinol ether
 CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O	Digoxin
 CCCC1=CC2=C(C=C1)OCO2	Dihydrosafrole
+CC(C)CCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCC(C)C	Diisononyl phthalate
 CC(C)OS(=O)(=O)OC(C)C	Diisopropyl sulfate
 COP(=O)OC	Dimethyl hydrogen phosphite
 C[As](=O)(C)O	Dimethylarsinic acid
